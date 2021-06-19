@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Complelte_Battle_Factory</string>
+    <string name="button">Button</string>
+
+    <string name="sub">Sub Activity</string>
+    <string name="return_sub">RETURN</string>
+</resources>
